@@ -1,0 +1,9 @@
+rs_group,biomass_lb,biomass_ub,ratio,ratio_lb,ratio_ub
+conifer,0,50,0.403,0.206,1.058
+conifer,50,150,0.292,0.236,0.502
+conifer,150,Inf,0.201,0.122,0.492
+oak,0,70,0.456,0.119,0.927
+oak,70,Inf,0.295,0.2,1.155
+broadleaf,0,75,0.456,0.119,0.927
+broadleaf,75,150,0.226,0.133,0.366
+broadleaf,150,Inf,0.241,0.172,0.435

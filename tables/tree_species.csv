@@ -1,0 +1,97 @@
+id_species,scientific,family,german
+0,not determinable,NA,NA
+1,Alnus glutinosa,Betulaceae,Schwarz-Erle
+2,Carpinus betulus,Betulaceae,Hainbuche
+3,Betula pendula,Betulaceae,Hänge-Birke
+4,Fagus sylvatica,Fagaceae,Rot-Buche
+5,Populus x canadensis,Salicaceae,Kanadische Pappel
+6,Quercus robur,Fagaceae,Stiel-Eiche
+7,Picea abies,Pinaceae,Rotfichte
+8,Corylus avellana,Betulaceae,Gemeine Hasel
+9,Prunus padus,Rosaceae,Gewöhnliche Traubenkirsche
+10,Larix decidua,Pinaceae,Europäische Lärche
+11,Populus tremula,Salicaceae,Zitterpappel
+12,Betula pubescens,Betulaceae,Moor-Birke
+13,Fraxinus excelsior,Oleaceae,Gemeine Esche
+14,Sorbus aucuparia,Rosaceae,Vogelbeere
+15,Prunus avium,Rosaceae,Vogel-Kirsche
+16,Tilia cordata,Malvaceae,Winter-Linde
+17,Pinus sylvestris,Pinaceae,Wald-Kiefer
+18,Ilex aquifolium,Aquifoliaceae,Europäische Stechpalme
+19,Sorbus torminalis,Rosaceae,Elsbeere
+20,Salix caprea,Salicaceae,Sal-Weide
+21,Salix alba,Salicaceae,Silber-Weide
+22,Frangula alnus,Rhamnaceae,Faulbaum
+23,Crataegus laevigata,Rosaceae,Zweigriffeliger Weißdorn
+24,Pseudotsuga menziesii,Pinaceae,Gewöhnliche Douglasie
+25,Sambucus nigra,Adoxaceae,Schwarzer Holunder
+26,Acer pseudoplatanus,Sapindaceae,Berg-Ahorn
+27,Prunus spinosa,Rosaceae,Schlehe
+29,Ulmus glabra,Ulmaceae,Bergulme
+30,Crataegus monogyna,Rosaceae,Eingriffeliger Weißdorn
+31,Alnus incana,Betulaceae,Grau-Erle
+32,Quercus rubra,Fagacaea,Rot-Eiche
+33,Sambucus racemosa,Adoxaceae,Roter Holunder
+36,Acer platanoides,Sapindaceae,Spitz-Ahorn
+37,Tilia platiphyllos,Malvaceae,Sommer-Linde
+38,Acer campestre,Sapindaceae,Feld-Ahorn
+39,Cornus mas,Cornaceae,Kornelkirsche
+40,Ulmus minor,Ulmaceae,Feldulme
+41,Prunus serotina,Rosaceae,Spätblühende Traubenkirsche
+42,Castanea sativa,Fagaceae,Edelkastanie
+43,Salix petandra,Salicaceae,Lorbeer-Weide
+45,Salix cinerea,Salicaceae,Asch-Weide
+47,Robinia pseudoacacia,Fabaceae,Gewöhnliche Robinie
+48,Cydonia oblonga,Rosaceae,Quitte
+49,Populus balsamifera,Salicaceae,Balsam-Pappel
+51,Aesculus hippocastanum,Sapindaceae,Gewöhnliche Roßkastanie
+52,Salix fragilis,Salicaceae,Bruch-Weide
+53,Populus alba,Salicaceae,Silber-Pappel
+54,Populus x canadensis tremula,Salicaceae,NA
+55,Quercus petraea,Fagacaea,Trauben-Eiche
+56,Quercus pubescens,Fagacaea,Flaum-Eiche
+57,Fraxinus angustifolia,Oleaceae,Schmalblättrige Esche
+58,Malus sylvestris,Rosaceae,Holzapfel
+59,Tilia x europaea,Malvaceae,Holländische Linde
+61,Juniperus communis,Cupressaceae,Gemeiner Wacholder
+64,Salix caprea x fragilis,Salicaceae,NA
+65,Salix cinerea x fragilis,Salicaceae,NA
+66,Rhamnus cathartica,Rhamnaceae,Purgier-Kreuzdorn
+67,Viburnum opulus,Adoxaceae,Gewöhnlicher Schneeball
+68,Lonicera xylosteum,Caprifoliaceae,Gewöhnliche Heckenkirsche
+69,Sorbus intermedia,Pyrinae,Schwedische Mehlbeere
+70,Abies alba,Pinaceae,Weiß-Tanne
+71,Abies grandis,Pinaceae,Küsten-Tanne
+72,Juglans regia,Juglandaceae,Echte Walnuss
+73,Larix europaea,Pinaceae,Europäische Lärche
+74,Larix kaempferi,Pinaceae,Japanische Lärche
+75,Malus sylvestris x domestica,Rosaceae,Kulturapfel
+76,Pinus nigra,Pinaceae,Schwarzkiefer
+77,Pinus pinaster,Pinaceae,See-Kiefer
+78,Pinus strobus,Pinaceae,Weymouth-Kiefer
+79,Populus deltoides,Salicaceae,Kanadische Schwarz-Pappel
+80,Populus nigra,Salicaceae,Schwarz-Pappel
+81,Populus trichocarpa,Salicaceae,Westliche Balsam-Pappel
+82,Prunus cerasus,Rosaceae,Sauerkirsche
+83,Prunus domestica ssp. insititia,Rosaceae,Kriech-Pflaume
+84,Prunus mahaleb,Rosaceae,Steinweichsel
+85,Pyrus pyraster,Rosaceae,Wildbirne
+86,Salix triandra,Salicaceae,Mandel-Weide
+87,Salix viminalis,Salicaceae,Korb-Weide
+88,Sorbus domestica,Rosaceae,Speierling
+89,Ulmus laevis,Ulmaceae,Flatterulme
+93,Acer sp,Sapindaceae,Ahorn
+94,Salix sp,Salicaceae,Weide
+95,Tilia sp,Malvaceae,Linde
+96,Betula sp,Betulaceae,Birke
+97,Prunus sp,Rosaceae,Kirsche
+98,Populus sp,Salicaceae,Pappel
+99,Crateagus sp,Rosaceae,Weißdorn
+100,Cedrus sp,Pinaceae,Zeder
+101,Fraxinus sp,Oleaceae,Esche
+102,Larix sp,Pinaceae,Lärche
+103,Malus sp,Rosaceae,Apfel
+104,Quercus sp,Fagacaea,Eiche
+105,Thuja sp,Cupressaceae,Lebensbaum
+106,Ulmus sp,Ulmaceae,Ulme
+107,Cornus sp,Cornaceae,Hartriegel
