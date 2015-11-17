@@ -1,5 +1,3 @@
-source("~/code/read_in_data.R") # create this file for your project
-
 # --> generic volume calculation
 data$volume_gen1 <- (data$d130/100)**2*data$h # including branches etc
 data$volume_gen2 <- 0.42*pi*((data$d130/100)/2)**2*data$h # excluding branches etc
@@ -455,8 +453,6 @@ for(i in levels(data$id_point)){
     data$carbon_ub[data$id_point==i & !is.na(data$vol[data$id_point==i])][j] <- data$biomass_tree_ub[data$id_point==i & !is.na(data$vol[data$id_point==i])][j]*0.5
   }
 }
-
-write.csv(data, "./output/tree_volumen_and_biomass.csv", row.names=F)
 
 # References:
 # Børset, O. (1954): Kubering av osp på rot. Meddelelser fra det norske Skogforsøksvesen 12: 391–447.
