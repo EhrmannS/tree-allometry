@@ -17,8 +17,8 @@ Read in data via a data.frame of the following form:
 
 _id_location_ and _other_ can be any desired number of additional columns for the needs of your sampling design. _id_species_, _d130_ and _height_ however are required to run this function.
 
-## Usability
-Everything can be used, under the terms of the [License](LICENSE). You only need to pay attention to either set ID of species to the values that can be found [here](tables/tree_species.csv) or adapt the code.
+## Usage
+Everything can be used, under the terms of the [License](LICENSE). You only need to pay attention to either set ID of species in your data to the values that can be found [here](tables/tree_species.csv) or adapt the code.
 Feel free to fork it all and add your equations and values to this repo!
 
 ## References
