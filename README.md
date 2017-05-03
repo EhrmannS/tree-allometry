@@ -4,8 +4,13 @@ Here you can find a collection of allometric equations to calculate volume of tr
 
 ![Decission tree to chose relevant allometic equations for calculation of tree volume](presentations/decission-tree%20equations_vertical.png?raw=true)
 
-Equations have originally been pulled from Zianis et al. (2005) and the [Globallometree](http://www.globallometree.org/)-database. However, equations of globallometree.org had to be corrected on several occasions.
+Equations have originally been pulled from Zianis et al. (2005) and the [Globallometree](http://www.globallometree.org/)-database. However, equations from globallometree.org had to be corrected on several occasions.
+
 Equations were harmonized to be giving the same units for volume (m³). Biomass is calculated utilizing BCEF-values from Aalde et al. (2006) (Tab. 4.5) and root-biomass is calculated utilizing root-shoot values from Mokany et al. (2006). Carbon was calculated by multiplying total biomass with 0.5.
+
+## Usage
+Everything can be used, under the terms of the [License](LICENSE). You only need to pay attention to either set ID of species in your data to the values that can be found [here](tables/tree_species.csv) or adapt the code.
+Feel free to fork it all and add your equations and values to this repo!
 
 Read in data via a data.frame of the following form:
 
@@ -16,10 +21,6 @@ Read in data via a data.frame of the following form:
 | ... | ... | ... | ... | ... |
 
 _id_location_ and _other_ can be any desired number of additional columns for the needs of your sampling design. _id_species_, _d130_ and _height_ however are required to run this function.
-
-## Usage
-Everything can be used, under the terms of the [License](LICENSE). You only need to pay attention to either set ID of species in your data to the values that can be found [here](tables/tree_species.csv) or adapt the code.
-Feel free to fork it all and add your equations and values to this repo!
 
 ## References
 - Børset, O. (1954): Kubering av osp på rot. Meddelelser fra det norske Skogforsøksvesen 12: 391–447.
