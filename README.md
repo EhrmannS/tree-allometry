@@ -4,6 +4,8 @@ Here you can find a collection of allometric equations to calculate volume of tr
 
 ![Decission tree to chose relevant allometic equations for calculation of tree volume](presentations/decission-tree%20equations_vertical.png?raw=true)
 
+A 'global equation' is any equation for the calculation of stemwood volume of a specific species that has been defined somewhere in the literature. 'Generalising' a species refers to considering only the genus of this species and 'generalisation' is possible, if several tree species within a genus exist and the genus only is described by an equation (such as in the case of *Quercus* or *Acer*). 'Substituting' a species is possible, when it is reasonable to assume that a very similar species exists (such as in the case of *Quercus* sp. and *Castanea sativa*).
+
 Equations have originally been pulled from Zianis et al. (2005) and the [Globallometree](http://www.globallometree.org/)-database. However, equations from globallometree.org had to be corrected on several occasions.
 
 Equations were harmonized to be giving the same units for volume (m³). Biomass is calculated utilizing BCEF-values from Aalde et al. (2006) (Tab. 4.5) and root-biomass is calculated utilizing root-shoot values from Mokany et al. (2006). Carbon was calculated by multiplying total biomass with 0.5.
